@@ -7,10 +7,10 @@
 ## Data description
 This repository contains all raw demagnetization and paleointensity data used in the above publication:
 
-    - EMA-MT4.zip contains data of Thellier experiments performed in MT4 version in Thel­lierTool4.22 format (Leonhardt et al., 2004).
-    - EMA-sel.csv is the input data file for Bias Corrected Estimation of Paleointensity method (BiCEP) according to https://github.com/bcych/BiCEP_GUI (Cych et al., 2021). Anisotropy and Cooling rate corrections were considered by modifying the laboratory field correspondingly.
-    - TR-msp.txt is the multiple-specimen paleointensity domain-state corrected method input file for Ternitz according to https://github.com/leonro/MSPTool (Fabian & Leonhardt, 2010).
-    - FG-msp.txt is the multiple-specimen paleointensity domain-state corrected method input file for Fergitz according to https://github.com/leonro/MSPTool (Fabian & Leonhardt, 2010).
+- EMA-MT4.zip contains data of Thellier experiments performed in MT4 version in Thel­lierTool4.22 format (Leonhardt et al., 2004).
+- EMA-sel.csv is the input data file for Bias Corrected Estimation of Paleointensity method (BiCEP) according to https://github.com/bcych/BiCEP_GUI (Cych et al., 2021). Anisotropy and Cooling rate corrections were considered by modifying the laboratory field correspondingly.
+- TR-msp.txt is the multiple-specimen paleointensity domain-state corrected method input file for Ternitz according to https://github.com/leonro/MSPTool (Fabian & Leonhardt, 2010).
+- FG-msp.txt is the multiple-specimen paleointensity domain-state corrected method input file for Fergitz according to https://github.com/leonro/MSPTool (Fabian & Leonhardt, 2010).
 
 ## References
 
