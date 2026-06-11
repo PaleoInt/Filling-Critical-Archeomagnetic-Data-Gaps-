@@ -5,7 +5,7 @@
 **Journal**: Geophysical Journal International
 
 ## Data description
-This repository contains all raw demagnetization and paleointensity data used in the above publication:
+This repository contains all paleointensity data used in the above publication:
 
 - EMA-MT4.zip contains data of Thellier experiments performed in MT4 version in Thel­lierTool4.22 format (Leonhardt et al., 2004).
 - EMA-sel.csv is the input data file for Bias Corrected Estimation of Paleointensity method (BiCEP) according to https://github.com/bcych/BiCEP_GUI (Cych et al., 2021). Anisotropy and Cooling rate corrections were considered by modifying the laboratory field correspondingly.
